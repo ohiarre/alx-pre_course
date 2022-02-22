@@ -1,2 +1,2 @@
-My first readme
-A great learning experience i has been
+My first readme.
+A great learning experience it has been.
